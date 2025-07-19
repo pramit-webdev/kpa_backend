@@ -22,7 +22,7 @@ This project is a FastAPI-based backend for selected form submissions from the K
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/kpa_backend.git
+git clone https://github.com/pramit-webdev/kpa_backend.git
 cd kpa_backend
 ```
 
